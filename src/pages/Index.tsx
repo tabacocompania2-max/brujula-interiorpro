@@ -243,7 +243,7 @@ const Index = () => {
               >
                 Método Brújula Interior
               </span>
-              <h1 className="bi-h1">¿Sientes que te perdiste a ti misma en el camino?</h1>
+              <h1 className="bi-h1">¿Sientes que te perdiste a ti mismo en el camino?</h1>
               <p
                 style={{
                   fontSize: 18,
@@ -253,7 +253,7 @@ const Index = () => {
                 }}
               >
                 Brújula Interior es el proceso personalizado que te ayuda a entender tus patrones
-                emocionales, soltar lo que ya no te sirve y encontrar el camino de regreso a ti misma.
+                emocionales, soltar lo que ya no te sirve y encontrar el camino de regreso a ti mismo.
               </p>
               <div>
                 <CtaButton large scrollTo={SCROLL_TARGET_ID}>
@@ -314,7 +314,7 @@ const Index = () => {
                 </li>
                 <li>
                   <span style={{ color: PURPLE, fontWeight: 700 }}>✓</span> Romper los patrones
-                  que te tienen atrapada
+                  que te tienen atrapado
                 </li>
                 <li>
                   <span style={{ color: PURPLE, fontWeight: 700 }}>✓</span> Poner límites desde
@@ -569,7 +569,7 @@ const Index = () => {
             </h3>
             <p style={{ fontSize: 15, color: "#166534", margin: "0 0 12px" }}>
               Si en 30 días no sientes un cambio real en cómo te entiendes y te relacionas
-              contigo misma, te devolvemos cada peso. Sin preguntas. Sin formularios. Sin procesos
+              contigo mismo, te devolvemos cada peso. Sin preguntas. Sin formularios. Sin procesos
               complicados. Solo escríbenos y listo.
             </p>
             <p style={{ fontSize: 14, color: "#16A34A", fontWeight: 500, margin: 0 }}>
