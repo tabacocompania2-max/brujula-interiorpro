@@ -85,7 +85,7 @@ const faqs = [
 ];
 
 const HERO_MOCKUP = "/9eafb6e1-e681-4e88-af3e-409de452333f.webp";
-const BIG_MOCKUP = "/fc9b6b24-0bd3-4cff-82e8-f111a484ae2b.webp";
+const BIG_MOCKUP = "/e8d926b2-caa4-48c0-8e7d-d73b7fa63d7e.webp";
 
 const valueItems = [
   {
