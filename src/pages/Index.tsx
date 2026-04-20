@@ -583,26 +583,13 @@ const Index = () => {
       <section style={{ backgroundColor: PURPLE_BADGE_BG, padding: "48px 24px" }}>
         <div className="bi-container" style={{ maxWidth: 980 }}>
           <h2 className="bi-h2">Todo esto es tuyo hoy por solo $9.97</h2>
-          <div className="bi-recibes-grid" style={{ marginTop: 32 }}>
-            <div style={{ display: "flex", justifyContent: "center" }}>
-              <img
-                src={BIG_MOCKUP}
-                alt="Mockup grande de la Guía Brújula Interior"
-                className="mockup-principal"
-                style={{ maxWidth: 280 }}
-              />
-            </div>
-            <div className="bi-stack-bonos">
-              {stackBonos.map((b, i) => (
-                <img
-                  key={i}
-                  src={b.src}
-                  alt={`Mockup del ${b.alt}`}
-                  style={{ transform: `rotate(${b.rotate}deg)`, zIndex: i + 1 }}
-                  loading="lazy"
-                />
-              ))}
-            </div>
+          <div style={{ marginTop: 32, display: "flex", justifyContent: "center" }}>
+            <img
+              src="/brujula-stack-completo.webp"
+              alt="Brújula Interior: guía principal y 4 bonos incluidos"
+              style={{ maxWidth: "100%", width: "100%", height: "auto" }}
+              loading="lazy"
+            />
           </div>
           <p
             style={{
